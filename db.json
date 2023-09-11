@@ -1,0 +1,35 @@
+{
+  "books": [
+    {
+      "id": "1694077661043",
+      "title": "aqqqwwww",
+      "author": "eeee",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "categoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "çizgi-Romanaa"
+    },
+    {
+      "id": "1694156931357",
+      "name": "romanhh"
+    },
+    {
+      "id": "1694156939789",
+      "name": "hikaye"
+    },
+    {
+      "id": "1694156947556",
+      "name": "makalecc"
+    },
+    {
+      "id": "1694160394581",
+      "name": "zzzzz"
+    }
+  ]
+}
